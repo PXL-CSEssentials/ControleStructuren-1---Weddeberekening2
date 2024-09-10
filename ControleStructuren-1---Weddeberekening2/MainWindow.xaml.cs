@@ -28,7 +28,9 @@ namespace ControleStructuren_1___Weddeberekening2
         private void calculateButton_Click(object sender, RoutedEventArgs e)
         {
             // Declaratie van variabelen die we later gebruiken    
-            float gross, tax, net;
+            float gross;
+            float tax;
+            float net;
 
             // Toekenning aan variabele naam.     
             string name = employeeTextBox.Text;
