@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Hallo" HorizontalAlignment="Left" Margin="63,63,0,0" VerticalAlignment="Top"/>
+        <Label Content="Wereld" HorizontalAlignment="Left" Margin="135,76,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
